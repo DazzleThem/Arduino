@@ -1,5 +1,5 @@
 
-This program converts typed messages into morse code. 
+BetterMorse is a program converts typed messages into morse code. 
 
 
   Each letter is a function in the format of let"insert capital letter here"
